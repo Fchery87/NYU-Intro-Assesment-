@@ -6,7 +6,7 @@ img {
 
 /* add code here to change the color and font family of your name/title */
 h1 {
-    color: darkgoldenrod;
+    color: rgb(202, 183, 13);
 }
 
 /* Bonus: change the color of your list elements */
@@ -16,5 +16,5 @@ h1 {
 } */
 
 ol {
-    color: darkgoldenrod;
+    color: rgb(202, 183, 13);
 }
